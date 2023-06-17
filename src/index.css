@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer {
+    .router-link-active {
+        @apply bg-blue-700 hover:bg-blue-800 text-blue-300 font-bold rounded-sm;
+    }
+}
