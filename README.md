@@ -14,13 +14,6 @@ https://defile.netlify.app
 
 ##### The website requires Metamask wallet extension and account on sepolia Test net
 
-
-## Features
-
-- Decentalized storage of files
-- Files are encrypted and decrypted in browser
-
-
 ## Requirements
 
 - Nodejs
@@ -30,6 +23,10 @@ https://defile.netlify.app
 - Metamask
 
 
+## Features
+
+- Decentalized storage of files
+- Files are encrypted and decrypted in browser
 
 
 ## Run Locally
