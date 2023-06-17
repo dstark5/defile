@@ -7,12 +7,10 @@ A Web3 App for Storing Files in a  decentralized secure way using IPFS and Ether
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
+## Features
 
-## 🔗 Link
-
-https://defile.netlify.app
-
-##### The website requires Metamask wallet extension and account on sepolia Test net
+- Decentalized storage of files
+- Files are encrypted and decrypted in browser
 
 ## Requirements
 
@@ -22,12 +20,11 @@ https://defile.netlify.app
 
 - Metamask
 
+## 🔗 Link
 
-## Features
+https://defile.netlify.app
 
-- Decentalized storage of files
-- Files are encrypted and decrypted in browser
-
+##### The website requires Metamask wallet extension and account on sepolia Test net
 
 ## Run Locally
 
