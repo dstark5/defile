@@ -1,7 +1,7 @@
 
 # DeFile
 
-A Web3 App for Storing Files in a  decentralized secure way using IPFS and Ethereum Blockchain
+A Web3 App for Storing Files in a  decentralized secure way using IPFS and Ethereum Blockchain with Truffle and VueJs
 
 
 
